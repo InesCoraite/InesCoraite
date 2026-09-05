@@ -1,3 +1,6 @@
+
+<p align="center"> <img src="https://1drv.ms/i/c/e69d2005056abf74/IQD8_pMVTVKVR4y_20bXrgbHAVwD3m0o9SFGEE2hRa9b1vM?e=LFdwCB" width="150" alt="Avatar"/> </p>
+
 # 👋 ¡Hola! Soy Inés Coraite
 
 💻 **Analista Programadora** | **Técnica en Informática** | **Lic. en Tecnologías Digitales para la Educación**
