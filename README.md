@@ -1,3 +1,6 @@
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
 
 # 👋 ¡Hola! Soy Inés Coraite
 
